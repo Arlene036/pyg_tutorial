@@ -1,1 +1,3 @@
-"# pyg_tutorial" 
+# pyg_tutorial
+
+Notes from https://github.com/AntonioLonga/PytorchGeometricTutorial
